@@ -439,3 +439,6 @@ First we will deploy our token with ```npx hardhat run --network goerli scripts/
 
 Copy the token deployment address and paste it in the faucet deploy script:
 
+
+
+After deployment, copy the faucet contract address, check it on etherscan and do some testing on Remix
